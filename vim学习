@@ -1,0 +1,45 @@
+title: GVIM学习 #文章页面上的显示名称，可以任意修改，不会出现在URL中
+date: 2015-09-10 00:45:04 #文章生成时间，一般不改，当然也可以任意修改
+categories: VIM #分类
+tags: [vim,mac,config] #文章标签，可空，多标签请用格式，注意:后面有个空格
+description: gvim的安装及配置。
+---
+##为什么用vim
+跨平台，自定义，快，职业生涯工具的一致性
+
+##vim的版本
+mac下，vim及gvim
+
+##vim安装
+github下载，编译
+brew下安装
+
+##vim配置文件
+典型配置文件
+
+##vim主题
+	tips
+
+##插件
+vundle－如何插件管理
+ycm
+NERDTree
+Markology
+CtrlP
+xptemplate
+
+##python ide构建
+基本设置
+
+pyt－ide设置
+powerline
+ctrlp
+
+
+python-mode是封装了pylint、rope、pydoc、pep8和mccabe的vim插件，使用它可以让你快速地完成python的vim开发环境。
+syntastic  语法提示
+
+http://www.sontek.net/blog/2011/05/07/turning_vim_into_a_modern_python_ide.html
+http://v.youku.com/v_show/id_XNDY4NTM4NzY0.html
+
+每个插件的学习参考:help <插件名>
